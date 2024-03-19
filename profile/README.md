@@ -1,5 +1,5 @@
-# Welcome to Swiftclip
+# Welcome to Swiftclipz
 
-![Swiftclip Header](https://github.com/swiftclip/.github/blob/main/profile/readme_img.png)
+![Swiftclipz Header](https://github.com/swiftclipz/.github/blob/main/profile/readme_img.png)
 
-Swiftclip is a user-friendly web app that allows you to save and organize clips from various online sources, making it convenient to revisit and reference them later. Swiftclip enables users to clip and save important content from the internet seamlessly.
+Swiftclipz is a user-friendly web app that allows you to save and organize clips from various online sources, making it convenient to revisit and reference them later. Swiftclipz enables users to clip and save important content from the internet seamlessly.
